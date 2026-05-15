@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Green Background Circle -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+
+    <!-- Ledger Book Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,30h30v48h-30z M65,30l10,5v48l-10,-5z" />
+
+    <!-- Lines on Ledger -->
+    <path
+        android:strokeColor="#E0E0E0"
+        android:strokeWidth="2"
+        android:pathData="M40,40h20 M40,50h20 M40,60h20" />
+
+    <!-- Rupee Symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,85l-5,-5h10z" />
+</vector>
